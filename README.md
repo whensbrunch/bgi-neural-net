@@ -21,6 +21,8 @@ The repo is broken down into the following components:
 
 - **tumor_parser**: a C++ string parser to handle massive amounts of DNA sequencing data in the form of "AGCT" and delimiters
 
+- **matlab_code**: various utilities for plotting and genome processing
+
 - **neural_network**: a parallel neural network implementation in C++ with openMP
 
 - **scikit_code**: a voting algorithm using SVM, Random Forest, KNN and other methods for classification
