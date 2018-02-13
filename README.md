@@ -6,12 +6,14 @@ This project was done for the Institute for Pure and Applied Mathematics (IPAM) 
 Poster report:
 https://drive.google.com/file/d/0B07OecC53Z0dSG95VFdGOHBlemc/view
 
+## Project structure
+
 The repo is broken down into the following components:
 
-1) a c++ string parser to handle tremendous amount of DNA sequencing data in the form of "AGCT" and limiters
+- **tumor_parser**: a C++ string parser to handle massive amounts of DNA sequencing data in the form of "AGCT" and delimiters
 
-2) a Parallel Neural Network implementation in C++ with openMP
+- a Parallel Neural Network implementation in C++ with openMP
 
-3) a voting algorithm using SVM, Random Forest,KNN and other methods for classification
+- a voting algorithm using SVM, Random Forest,KNN and other methods for classification
 
-Please contact me if you have any problems.
+## Contribution
