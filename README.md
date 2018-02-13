@@ -7,8 +7,8 @@ This project was done for the Institute for Pure and Applied Mathematics (IPAM) 
 
 Poster report:
 https://drive.google.com/file/d/0B07OecC53Z0dSG95VFdGOHBlemc/view
-
-## Tools
+ 
+## Tools used
 
 Programming languages: C++, Python, Java, MATLAB
 
@@ -25,4 +25,6 @@ The repo is broken down into the following components:
 
 - a voting algorithm using SVM, Random Forest,KNN and other methods for classification
 
-## Contribution
+- **report**: report for the Beijing Genomics Institute
+
+## Contributing
