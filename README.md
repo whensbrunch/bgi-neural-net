@@ -8,6 +8,13 @@ This project was done for the Institute for Pure and Applied Mathematics (IPAM) 
 Poster report:
 https://drive.google.com/file/d/0B07OecC53Z0dSG95VFdGOHBlemc/view
 
+## Tools
+
+Programming languages: C++, Python, Java, MATLAB
+
+Bioinformatics tools: SAMTools, GATK
+
+
 ## Project structure
 
 The repo is broken down into the following components:
