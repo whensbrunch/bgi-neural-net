@@ -1,7 +1,7 @@
 Somatic Mutation Calling Using Neural Networks
 ==============================================
 
-![matlab](https://img.shields.io/badge/matlab-.5-green.svg?style=flat)
+![matlab](https://img.shields.io/badge/matlab-.5-green.svg?style=flat)![c++](https://img.shields.io/badge/c++-.29-green.svg?style=flat)
 
 This project was done for the Institute for Pure and Applied Mathematics (IPAM) and the Beijing Genomics Institute (BGI). The research was performed in Hong Kong out of the Hong Kong University of Science and Technology (HKUST).
 
