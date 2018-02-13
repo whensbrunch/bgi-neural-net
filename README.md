@@ -1,5 +1,7 @@
-RIPS_2014_BGI
-=========================
+Somatic Mutation Calling Using Neural Networks
+==============================================
+
+This project was done for the Institute for Pure and Applied Mathematics (IPAM) and the Beijing Genomics Institute (BGI).
 
 Poster report:
 https://drive.google.com/file/d/0B07OecC53Z0dSG95VFdGOHBlemc/view
