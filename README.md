@@ -1,14 +1,12 @@
 Somatic Mutation Calling Using Neural Networks
 ==============================================
 
-This project was done for the Institute for Pure and Applied Mathematics (IPAM) and the Beijing Genomics Institute (BGI).
+This project was done for the Institute for Pure and Applied Mathematics (IPAM) and the Beijing Genomics Institute (BGI). The research was performed in Hong Kong out of the Hong Kong University of Science and Technology (HKUST).
 
 Poster report:
 https://drive.google.com/file/d/0B07OecC53Z0dSG95VFdGOHBlemc/view
 
-This is the code used developed during the project for RIPS-UCLA 2014 BGI Company at HKUST.
-
-There are several parts of it, it contains:
+The repo is broken down into the following components:
 
 1) a c++ string parser to handle tremendous amount of DNA sequencing data in the form of "AGCT" and limiters
 
